@@ -54,8 +54,8 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <h3>💰 $X k/mo</h3>
-      <sub>AWS spend identified as<br/>recoverable in a cost audit</sub>
+      <h3>💰 FinOps</h3>
+      <sub>AWS cost audits, rightsizing<br/>&amp; idle-resource cleanup</sub>
     </td>
     <td align="center" width="25%">
       <h3>⏱️ 0 min</h3>
@@ -100,15 +100,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satishchoudhary94&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CFF&text_color=E6EDF3" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishchoudhary94&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishchoudhary94&layout=compact&langs_count=8&hide=css,scss,html&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Satishchoudhary94&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2CFF&currStreakLabel=00D9FF" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satishchoudhary94&bg_color=0D1117&color=00D9FF&line=7B2CFF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
 </p>
 
 <p align="center">
